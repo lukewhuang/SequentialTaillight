@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Sat May  8 00:09:56 2021
+[*]
+[dumpfile] "/Users/lukehuang/Desktop/ECE152A/Lab5/dump.vcd"
+[dumpfile_mtime] "Sat May  8 00:02:07 2021"
+[dumpfile_size] 11015
+[savefile] "/Users/lukehuang/Desktop/ECE152A/Lab5/lights.gtkw"
+[timestart] 0
+[size] 3440 738
+[pos] -1 -1
+*-5.397233 12 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 157
+[sst_expanded] 1
+[sst_vpaned_height] 500
+@28
+tailights_tb.clk
+tailights_tb.dimclk
+tailights_tb.rst
+tailights_tb.runlight
+tailights_tb.brake
+tailights_tb.hazard
+tailights_tb.right
+tailights_tb.left
+@800023
+tailights_tb.lights[5:0]
+@29
+(0)tailights_tb.lights[5:0]
+(1)tailights_tb.lights[5:0]
+(2)tailights_tb.lights[5:0]
+(3)tailights_tb.lights[5:0]
+(4)tailights_tb.lights[5:0]
+(5)tailights_tb.lights[5:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
